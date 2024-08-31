@@ -12,9 +12,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-*I'm looking for research/applied scientist internship for summer/fall 2024. Don't hesitate to contact me if there is a match!*
-<br/>
-
 
 I am broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
 - **Building general-purpose verifier** through rationale extraction from unlabelled data to provide process supervision during reasoning
