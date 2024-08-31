@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.jiangdongwei.com/al-folio/sitemap.xml
+Sitemap: https://Some-random.github.io/sitemap.xml
