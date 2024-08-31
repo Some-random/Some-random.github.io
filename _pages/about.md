@@ -20,8 +20,7 @@ social: true # includes social icons at the bottom of the page
 *I'm looking for research/applied scientist internship for summer/fall 2024. Don't hesitate to contact me if there is a match!*
 <br/>
 
-Research Focus
-======
+
 I am broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
 - **Building general-purpose verifier** through rationale extraction from unlabelled data to provide process supervision during reasoning
 - **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process [[2]](https://arxiv.org/abs/2403.13312)
@@ -36,23 +35,6 @@ I'm also interested in the **self-improvement** capability of LLMs. If we begin 
 The role of training data and alignment in reasoning and self-improvement has always fascinated me. I would like to explore this further when I have more time and resources.
 <br/>
 
-Selected Publications
-======
-* [**SELF-[IN]CORRECT: LLMs Struggle with Refining Self-Generated Responses**](https://arxiv.org/abs/2404.04298)  
-**Dongwei Jiang**, Jingyu Zhang, Orion Weller, Nathaniel Weir, Benjamin Van Durme, Daniel Khashabi.
-arxiv preprint, 2024.
-
-* [**LeanReasoner: Boosting Complex Logical Reasoning with Lean**](https://arxiv.org/pdf/2403.13312.pdf)  
-**Dongwei Jiang**, Marcio Fonseca, Shay B. Cohen.
-NAACL Main Conference, 2024.
-
-* [**Enhancing Systematic Decompositional Natural Language Inference Using Informal Logic**](https://arxiv.org/abs/2402.14798)  
-Nathaniel Weir, Kate Sanders, Orion Weller, Shreya Sharma, **Dongwei Jiang**, Zhengping Jiang, Bhavana Dalvi Mishra, Oyvind Tafjord, Peter Jansen, Peter Clark, Benjamin Van Durme.
-arxiv preprint, 2024.
-
-(for a full publication, please visit my [Google Scholar](https://scholar.google.com/citations?user=z1PXZDEAAAAJ&hl=en))
-
-<br/>
 
 More About Me
 ======
