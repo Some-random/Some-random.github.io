@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: more
 title: More About Me
 permalink: /
 
