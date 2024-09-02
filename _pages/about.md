@@ -18,8 +18,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
+- **Building general-purpose verifier** through rationale extraction from unlabelled data to provide process supervision during reasoning
+- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process [[2]](https://arxiv.org/abs/2403.13312)
+- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset [[3]](https://arxiv.org/abs/2402.14798)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+  
+I'm also interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I've worked on:
+- **Understanding the reason** that prevents LLM from effective self-improvement [[1]](https://arxiv.org/abs/2404.04298)
+- **Building an environment** that provides faithful feedback for self-improvement
+- **Incorporating reasoning techniques** to solve issues during self-improvement
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+The role of training data and alignment in reasoning and self-improvement has always fascinated me. I would like to explore this further when I have more time and resources.
