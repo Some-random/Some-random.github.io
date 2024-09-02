@@ -1,7 +1,7 @@
 ---
 layout: more
 title: More About Me
-permalink: /
+permalink: /more
 
 ---
 
