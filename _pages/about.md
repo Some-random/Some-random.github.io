@@ -30,6 +30,4 @@ I'm also interested in the **self-improvement** capability of LLMs. If we begin 
 - **Incorporating reasoning techniques** to solve issues during self-improvement
 
 
-<br/>
 The role of training data and alignment in reasoning and self-improvement has always fascinated me. I would like to explore this further when I have more time and resources.
-<br/>
