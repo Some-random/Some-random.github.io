@@ -59,7 +59,8 @@ layout: default
 
   <article>
     <hr class="segmentation-line">
-    <h2>{{ page.research_interest }}</h2>
+    <h2 style="margin-bottom: 20px;">{{ page.research_interest }}</h2>
+
     <div class="clearfix">{{ content }}</div>
     <hr class="segmentation-line">
 
@@ -80,8 +81,8 @@ layout: default
     {% endif %}
     
     
-    <hr class="segmentation-line">
-    <h2>{{ page.more_title }}</h2>
+    <h2 style="margin-bottom: 20px;">{{ page.more_title }}</h2>
+
     <div class="new-section-content">
       {% capture content_from_include %}
       {% include more.md %}
