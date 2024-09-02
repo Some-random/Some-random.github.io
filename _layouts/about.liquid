@@ -58,8 +58,7 @@ layout: default
   </div>
 
   <article>
-    <h1>{{ page.more_title }}</h1>
-    <p>{{ page.more_description }}</p>
+    <h1>{{ Research Interest }}</h1>
     <div class="clearfix">{{ content }}</div>
     <hr class="segmentation-line">
 
@@ -80,6 +79,9 @@ layout: default
     {% endif %}
     
 
+    <h1>{{ page.more_title }}</h1>
+    <p>{{ page.more_description }}</p>
+
     <!-- Selected papers -->
     <br/>
     <hr class="segmentation-line">
@@ -93,5 +95,6 @@ layout: default
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
+
   </article>
 </div>
