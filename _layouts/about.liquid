@@ -80,11 +80,10 @@ layout: default
     {% endif %}
     
     
-    {% include more.liquid %}
     <hr class="segmentation-line">
     <h2>{{ page.more_title }}</h2>
     <div class="new-section-content">
-    <p>{{ page.more_description | markdownify }}</p>
+      {% include more.md %}
     </div>
 
     <!-- Selected papers -->
