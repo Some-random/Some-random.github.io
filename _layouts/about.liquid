@@ -76,10 +76,14 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
-
-    <h2>
+    
+    <!-- More about me -->
+    {% if page.more %}
+      <h2>
         <a href="{{ '/more/' | relative_url }}" style="color: inherit">More About Me</a>
-    </h2>
+      </h2>
+      {% include page.liquid %}
+    {% endif %}
 
     <!-- Selected papers -->
     <br/>
