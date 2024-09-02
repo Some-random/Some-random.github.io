@@ -83,7 +83,10 @@ layout: default
     <hr class="segmentation-line">
     <h2>{{ page.more_title }}</h2>
     <div class="new-section-content">
+      {% capture content_from_include %}
       {% include more.md %}
+      {% endcapture %}
+      {{ content_from_include | markdownify }}
     </div>
 
     <!-- Selected papers -->
