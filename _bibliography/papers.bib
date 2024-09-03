@@ -1,3 +1,43 @@
+---
+---
+
+@string{tacl = {Transactions of the Association for Computational Linguistics (TACL)}}
+@string{emnlp = {Conference on Empirical Methods in Natural Language Processing (EMNLP)}}
+@string{acl = {Annual Meeting of the Association for Computational Linguistics (ACL)}}
+@string{emnlpfindings = {Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP)}}
+@string{aclfindings = {Findings of Annual Meeting of the Association for Computational Linguistics (ACL)}}
+@string{icml = {International Conference on Machine Learning (ICML)}}
+@string{tmlr = {Transactions on Machine Learning Research (TMLR)}}
+@string{ijcnlp-aacl = {International Joint Conference on Natural Language Processing and Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL)}}
+@string{aacl = {Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL)}}
+@string{ijcnlp = {International Joint Conference on Natural Language Processing (IJCNLP)}}
+@string{www = {International World Wide Web Conference (WWW)}}
+@string{aaai = {AAAI Conference on Artificial Intelligence (AAAI)}}
+@string{naacl = {Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)}}
+@string{coling = {International Conference on Computational Linguistics (COLING)}}
+@string{icmr = {International Conference on Multimedia Retrieval (ICMR)}}
+@string{acmmm = {ACM International Conference on Multimedia (ACM MM)}}
+@string{cvpr = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}}
+@string{iccv = {IEEE/CVF International Conference on Computer Vision (ICCV)}}
+@string{tmm = {IEEE Transactions on Multimedia (TMM)}}
+
+@misc{ma2024mmlongbenchdocbenchmarkinglongcontextdocument,
+    abbr = {arXiv},
+    dataset={https://huggingface.co/datasets/yubo2333/MMLongBench-Doc},
+    code={https://github.com/mayubo2333/MMLongBench-Doc},
+    website={https://mayubo2333.github.io/MMLongBench-Doc/},
+    pdf={https://arxiv.org/abs/2407.01523},
+    abstract = "Understanding documents with rich layouts and multi-modal components is a long-standing and practical task. Recent Large Vision-Language Models (LVLMs) have made remarkable strides in various tasks, particularly in single-page document understanding (DU). However, their abilities on long-context DU remain an open problem. This work presents MMLongBench-Doc, a long-context, multi-modal benchmark comprising 1,062 expert-annotated questions. Distinct from previous datasets, it is constructed upon 130 lengthy PDF-formatted documents with an average of 49.4 pages and 20,971 textual tokens. Towards comprehensive evaluation, answers to these questions rely on pieces of evidence from (1) different sources (text, image, chart, table, and layout structure) and (2) various locations (i.e. page number). Moreover, 33.2% of the questions are cross-page questions requiring evidence across multiple pages. 22.8% of the questions are designed to be unanswerable for detecting potential hallucinations. Experiments on 14 LVLMs demonstrate that long-context DU greatly challenges current models. Notably, the best-performing model, GPT-4o, achieves an F1 score of only 42.7%, while the second-best, GPT-4V, scores 31.4%. Furthermore, 12 LVLMs (all except GPT-4o and GPT-4V) even present worse performance than their LLM counterparts which are fed with lossy-parsed OCR documents. These results validate the necessity of future research toward more capable long-context LVLMs.",
+    bibtex_show = {true},
+    title={MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations}, 
+    author={Yubo Ma and Yuhang Zang and Liangyu Chen and Meiqi Chen and Yizhu Jiao and Xinze Li and Xinyuan Lu and Ziyu Liu and Yan Ma and Xiaoyi Dong and Pan Zhang and Liangming Pan and Yu-Gang Jiang and Jiaqi Wang and Yixin Cao and Aixin Sun},
+    year={2024},
+    eprint={2407.01523},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2407.01523}
+}
+
 @inproceedings{DBLP:conf/naacl/JiangFC24,
   abbr = {NAACL},
   author       = {Dongwei Jiang and Marcio Fonseca and Shay B. Cohen},
