@@ -14,4 +14,4 @@ During my time at YuanFuDao, the [Double Reduction Policy](https://en.wikipedia.
 As I was adapting to my position at Shopee, the company's stock price dropped 80% due to the global economic crisis and the tensions between China and the US, leading to its [extensive layoffs](https://techwireasia.com/2022/09/why-is-e-commerce-giant-shopee-on-a-layoff-spree/).
 
 
-In my free time, I sometimes play Civ 6 or Hearthstone. I also run and go bouldering every other day - well, more like every three or four days, but who's counting?
+In my free time, I sometimes play [Civ 6](https://civilization.2k.com/) or [Hearthstone](https://hearthstone.blizzard.com/en-us). I also run and go bouldering every other day - well, more like every three or four days, but who's counting?
