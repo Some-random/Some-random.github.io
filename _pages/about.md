@@ -31,8 +31,7 @@ I am broadly interested in **reasoning**, which (IMHO) is a key aspect of human 
   
 I'm also interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I've worked on:
 - **Understanding the reason** that prevents LLM from effective self-improvement [[3]](https://arxiv.org/abs/2404.04298)
-- **Building an environment** that provides faithful feedback for self-improvement
-- **Incorporating reasoning techniques** to solve issues during self-improvement
+- **Probing the limits** of self-improvement
 
 
 Moreover, the role of (synthetic) training data and post-training alignment in reasoning and self-improvement has always fascinated me. I would like to explore these directions further when I have more time and resources.
