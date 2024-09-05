@@ -76,6 +76,12 @@
         {%- assign author_array_limit = author_array_size -%}
       {%- endif -%}
 
+      {% if entry.author_array %}
+        <p>Author array exists with {{ entry.author_array | size }} authors.</p>
+      {% else %}
+        <p>Author array is missing or empty.</p>
+      {% endif %}
+
       <!-- Start to show authors -->
       {%- for author in entry.author_array limit: author_array_limit -%}
         {{ author.first }} {{ author.last }} <!-- This will display the author name on the page -->
