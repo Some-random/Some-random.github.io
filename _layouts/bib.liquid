@@ -101,7 +101,7 @@
           {% if forloop.first == false %},&nbsp;{% endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
-        {%- if author == "Dongwei Jiang" -%}
+        {%- if author.first == "Dongwei" and author.last == "Jiang" -%}
           <!--This part controls the self author style!-->
           <a style="color: #0076df; font-weight: bold;">
             {{- author.first }}
