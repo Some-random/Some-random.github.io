@@ -76,16 +76,20 @@
         {%- assign author_array_limit = author_array_size -%}
       {%- endif -%}
 
+      {% comment %}
       {% if entry.author_array %}
         <p>Author array exists with {{ entry.author_array | size }} authors.</p>
       {% else %}
         <p>Author array is missing or empty.</p>
       {% endif %}
+      {% comment %}
 
       <!-- Start to show authors -->
       {%- for author in entry.author_array limit: author_array_limit -%}
+        {% comment %}
         <p>{{ author | jsonify }}</p>
         {{ author.first }} {{ author.last }} <!-- This will display the author name on the page -->
+        {% comment %}
 
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
@@ -112,7 +116,7 @@
         {% endif %}
         {%- if author.first == "Dongwei" and author.last == "Jiang" -%}
           <!--This part controls the self author style!-->
-          <a style="color: #0076df; font-weight: bold;">
+          <a style="color: #0076df; font-weight: bold; text-decoration: none;">
             {{- author.first }}
             {{ author_last_html -}}
           </a>
