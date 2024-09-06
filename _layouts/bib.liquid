@@ -82,14 +82,14 @@
       {% else %}
         <p>Author array is missing or empty.</p>
       {% endif %}
-      {% comment %}
+      {% endcomment %}
 
       <!-- Start to show authors -->
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% comment %}
         <p>{{ author | jsonify }}</p>
         {{ author.first }} {{ author.last }} <!-- This will display the author name on the page -->
-        {% comment %}
+        {% endcomment %}
 
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
