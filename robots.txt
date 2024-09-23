@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Some-random.github.io/sitemap.xml
+Sitemap: https://jiangdongwei.com/sitemap.xml
