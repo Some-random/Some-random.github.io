@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiangdongwei.com/sitemap.xml
+Sitemap: www.jiangdongwei.com/sitemap.xml
