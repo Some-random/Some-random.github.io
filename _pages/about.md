@@ -24,13 +24,14 @@ more_title: More About Me
 ---
 
 I am broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
+- **Investigating the effectiveness of CoT prompting** across 100+ papers and 20 datasets. Discovers CoT benefits mainly math/symbolic reasoning tasks<a href="/publications/#cot">[1]</a>
 - **Building general-purpose verifier** through rationale extraction from unlabelled data to provide process supervision during reasoning
-- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[1]</a>
-- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset [[2]](https://arxiv.org/abs/2402.14798)
+- **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[2]</a>
+- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[3]</a>
 
 
 I'm also interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I've worked on:
-- **Understanding the reason** that prevents LLM from effective self-improvement <a href="/publications/#self-[in]correct">[3]</a>
+- **Understanding the reason** that prevents LLM from effective self-improvement <a href="/publications/#self-[in]correct">[4]</a>
 - **Probing the limits** of self-improvement
 
 
