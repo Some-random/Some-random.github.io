@@ -24,7 +24,7 @@ more_title: More About Me
 ---
 
 I am broadly interested in **reasoning**, which (IMHO) is a key aspect of human intelligence that sets us apart from other species. In the realm of reasoning, I've worked on:
-- **Building general-purpose verifier** through rationale extraction from unlabelled data to provide process supervision during reasoning <a href="/publications/#RATIONALYST">[1]</a>
+- **Building general-purpose verifier** through rationale extraction from unlabelled data to provide process supervision during reasoning <a href="/publications/#Process-Supervision">[1]</a>
 - **Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[2]</a>
 - **Investigating the effectiveness of CoT prompting** across 100+ papers and 20 datasets and discovering CoT benefits mainly math/symbolic reasoning tasks <a href="/publications/#cot">[3]</a>
 - **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[4]</a>
