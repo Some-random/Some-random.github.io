@@ -24,7 +24,7 @@ more_title: More About Me
 ---
 
 I am broadly interested in **reasoning**. In the realm of reasoning, I've worked on complicated problems like:
-- **Theorem proving and Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[1]</a>
+- **Theorem proving and Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[1]</a> 
 - **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[2]</a>
 
 However, one puzzling limitation in LLM reasoning is that while these models can solve “superhuman” problems in specific domains, they often fail at simple tasks. This observation led me to question whether LLMs’ problem-solving abilities truly demonstrate superior reasoning capabilities or simply reflect domain-specific overspecialization. As a result, my focus has now turned to the more general, system-2-like reasoning. My work in this area includes:
