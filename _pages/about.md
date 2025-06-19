@@ -33,7 +33,7 @@ However, one puzzling limitation in LLM reasoning is that while these models can
 
 I'm also interested in the **self-improvement** capability of LLMs. If we begin with the “end” (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I've worked on:
 - **Understanding the reason** that prevents LLM from effective self-improvement <a href="/publications/#self-[in]correct">[5]</a>
-- **Probing the limits** of self-improvement even with high-quality feedback <a href="/publications/#feedback-friction">[6]</a>
+- **Probing the limits** of self-improvement even with high-quality feedback <a href="/publications/#friction">[6]</a>
 
 I believe these two research directions are **deeply interconnected and can synergistically enhance each other**. Strong reasoning capabilities are essential for effective self-improvement, as models need to logically analyze and discriminate between good and bad generations to provide meaningful feedback. Conversely, self-improvement mechanisms are crucial for advancing reasoning capabilities, as complex logical problems often require multiple attempts and refinements to reach the correct solution. This bidirectional relationship suggests that advancing either area could create positive feedback loops that benefit both capabilities.
 
