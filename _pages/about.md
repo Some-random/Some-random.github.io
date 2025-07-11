@@ -1,5 +1,6 @@
 ---
 layout: about
+
 title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -22,6 +23,7 @@ more: false
 research_interest: Research Interest
 more_title: More About Me
 ---
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 I am broadly interested in **reasoning**. In the realm of reasoning, I've worked on complicated problems like:
 - **Theorem proving and Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[1]</a> 
