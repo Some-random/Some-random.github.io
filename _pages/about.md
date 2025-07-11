@@ -40,17 +40,6 @@ Recently, I've been focusing on **reinforcement learning** and **agents** — th
 
 <details>
 <summary style="color: #6ba3f5; text-decoration: underline; cursor: pointer; font-weight: bold;">More about my research interest</summary>
-<div style="background-color: #1a1a1a; color: #cccccc; padding: 15px; border-radius: 8px; margin-top: 10px; border-left: 4px solid #6ba3f5;">
-
-I believe these the two research directions I'm interested in are **deeply interconnected** and can synergistically enhance each other. Strong reasoning capabilities are essential for effective self-improvement, as models need to logically analyze and discriminate between good and bad generations to provide meaningful feedback. Conversely, self-improvement mechanisms are crucial for advancing reasoning capabilities, as complex logical problems often require multiple attempts and refinements to reach the correct solution. This bidirectional relationship suggests that advancing either area could create positive feedback loops that benefit both capabilities.
-
-In addition, my research has drawn inspiration from **cognitive science concepts**, including [cognitive load theory](https://en.wikipedia.org/wiki/Cognitive_load), [dual-process theory](https://en.wikipedia.org/wiki/Dual-process_theory), and [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development). This connection to computational and cognitive learning theory is especially appealing as it demonstrates how AI systems can be fundamentally trained to emulate human cognitive patterns. I would love to explore this intersection more deeply in future research.
-
-</div>
-</details>
-
-<details>
-<summary style="color: #6ba3f5; text-decoration: underline; cursor: pointer; font-weight: bold;">More about my research interest</summary>
 <div style="background-color: #1a1a1a; color: #cccccc; padding: 15px; border-radius: 8px; margin-top: 10px; border-left: 4px solid #6ba3f5; margin-bottom: 20px;">
 
 I believe these the two research directions I'm interested in are **deeply interconnected** and can synergistically enhance each other. Strong reasoning capabilities are essential for effective self-improvement, as models need to logically analyze and discriminate between good and bad generations to provide meaningful feedback. Conversely, self-improvement mechanisms are crucial for advancing reasoning capabilities, as complex logical problems often require multiple attempts and refinements to reach the correct solution. This bidirectional relationship suggests that advancing either area could create positive feedback loops that benefit both capabilities.
