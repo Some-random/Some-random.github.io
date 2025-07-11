@@ -24,33 +24,6 @@ research_interest: Research Interest
 more_title: More About Me
 ---
 
-<style>
-.research-details {
-    border: 1px solid #d1d5db;
-    border-radius: 8px;
-    padding: 16px;
-    margin: 16px 0;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    background-color: #f9fafb;
-}
-
-.research-summary {
-    color: #2563eb;
-    text-decoration: underline;
-    cursor: pointer;
-    font-weight: 600;
-    margin-bottom: 12px;
-    padding: 8px 0;
-}
-
-.research-content {
-    background-color: white;
-    padding: 16px;
-    border-radius: 4px;
-    margin-top: 8px;
-}
-</style>
-
 I am broadly interested in **reasoning**. In the realm of reasoning, I've worked on complicated problems like:
 - **Theorem proving and Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[1]</a> 
 - **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[2]</a>
