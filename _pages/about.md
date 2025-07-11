@@ -23,7 +23,33 @@ more: false
 research_interest: Research Interest
 more_title: More About Me
 ---
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<style>
+.research-details {
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9fafb;
+}
+
+.research-summary {
+    color: #2563eb;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 600;
+    margin-bottom: 12px;
+    padding: 8px 0;
+}
+
+.research-content {
+    background-color: white;
+    padding: 16px;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+</style>
 
 I am broadly interested in **reasoning**. In the realm of reasoning, I've worked on complicated problems like:
 - **Theorem proving and Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[1]</a> 
@@ -44,6 +70,18 @@ I'm also interested in the **self-improvement** capability of LLMs. If we begin 
 I believe these two research directions are **deeply interconnected and can synergistically enhance each other**. Strong reasoning capabilities are essential for effective self-improvement, as models need to logically analyze and discriminate between good and bad generations to provide meaningful feedback. Conversely, self-improvement mechanisms are crucial for advancing reasoning capabilities, as complex logical problems often require multiple attempts and refinements to reach the correct solution. This bidirectional relationship suggests that advancing either area could create positive feedback loops that benefit both capabilities.
 
 In addition, my research has frequently drawn inspiration from **cognitive science concepts**, including [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load), [system 2 reasoning](https://en.wikipedia.org/wiki/Dual_process_theory), and [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development). This connection seems natural, given that LLMs are fundamentally trained to emulate human cognitive patterns. I would love to explore this intersection more deeply in future research.
+
+</div>
+</details>
+
+<details class="border rounded p-3 mb-3 shadow-sm" style="background-color: #f8f9fa;">
+<summary class="text-primary text-decoration-underline fw-bold mb-2" style="cursor: pointer;">More about my research interest</summary>
+<div class="bg-white p-3 rounded mt-2">
+
+I believe these two research directions are **deeply interconnected and can synergistically enhance each other**. Strong reasoning capabilities are essential for effective self-improvement, as models need to logically analyze and discriminate between good and bad generations to provide meaningful feedback. Conversely, self-improvement mechanisms are crucial for advancing reasoning capabilities, as complex logical problems often require multiple attempts and refinements to reach the correct solution. This bidirectional relationship suggests that advancing either area could create positive feedback loops that benefit both capabilities.
+
+In addition, my research has frequently drawn inspiration from **cognitive science concepts**, including [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load), [system 2 reasoning](https://en.wikipedia.org/wiki/Dual_process_theory), and [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development). This connection seems natural, given that LLMs are fundamentally trained to emulate human cognitive patterns. I would love to explore this intersection more deeply in future research.
+
 
 </div>
 </details>
