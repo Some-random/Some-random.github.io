@@ -8,8 +8,8 @@ middle_name:
 last_name: Jiang
 email: jiangdongwei0@gmail.com
 position: Speech researcher in the past, NLP researcher now # your position or title
-department: Second year Master's student # your department
-institution: <a href="https://www.clsp.jhu.edu/">CLSP</a>, Johns Hopkins University # your institution
+department: Applied Scientist at Amazon # your department
+institution: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
