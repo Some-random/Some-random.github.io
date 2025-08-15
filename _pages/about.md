@@ -25,16 +25,36 @@ more_title: More About Me
 ---
 
 I am broadly interested in **reasoning**. In the realm of reasoning, I've worked on:
-- **Building general-purpose verifier** through rationale extraction from unlabelled data to provide process supervision during reasoning <a href="/publications/#supervision">[1]</a>    (mentioned in Lilian Weng's [blog](https://bit.ly/44ChA3B))
-- **Investigating the effectiveness of CoT prompting** across 100+ papers and 20 datasets and discovering CoT benefits mainly math/symbolic reasoning tasks <a href="/publications/#cot">[2]</a> ([discussion](https://bit.ly/4lLMnSy) with Jason Wei)
-- **Theorem proving and Logical reasoning** that uses theorem prover [Lean](https://lean-lang.org/) to help with the reasoning process <a href="/publications/#lean">[3]</a> 
-- **Decompositional entailment** that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[4]</a>
 
-<!-- However, one puzzling limitation in LLM reasoning is that while these models can solve "superhuman" problems in specific domains, they often fail at simple tasks. This observation led me to question whether LLMs' problem-solving abilities truly demonstrate superior reasoning capabilities or simply reflect domain-specific overspecialization. As a result, my focus has now turned to the more general, system-2-like reasoning. My work in this area includes: -->
+<div class="collapsible-section">
+  <div class="collapsible-header" onclick="toggleSection('reasoning-details')">
+    <span class="toggle-icon" id="reasoning-details-icon">▶</span>
+    <strong>Details about my reasoning research</strong>
+  </div>
+  <div class="collapsible-content" id="reasoning-details" style="display: none;">
+    <ul>
+      <li><strong>Building general-purpose verifier</strong> through rationale extraction from unlabelled data to provide process supervision during reasoning <a href="/publications/#supervision">[1]</a> (mentioned in Lilian Weng's <a href="https://bit.ly/44ChA3B">blog</a>)</li>
+      <li><strong>Investigating the effectiveness of CoT prompting</strong> across 100+ papers and 20 datasets and discovering CoT benefits mainly math/symbolic reasoning tasks <a href="/publications/#cot">[2]</a> (<a href="https://bit.ly/4lLMnSy">discussion</a> with Jason Wei)</li>
+      <li><strong>Theorem proving and Logical reasoning</strong> that uses theorem prover <a href="https://lean-lang.org/">Lean</a> to help with the reasoning process <a href="/publications/#lean">[3]</a></li>
+      <li><strong>Decompositional entailment</strong> that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[4]</a></li>
+    </ul>
+  </div>
+</div>
 
-I'm also interested in the **self-improvement** capability of LLMs. If we begin with the "end" (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Specifically, I've worked on:
-- **Understanding the reason** that prevents LLM from effective self-improvement <a href="/publications/#self-[in]correct">[5]</a>
-- **Probing the limits** of self-improvement even with high-quality feedback <a href="/publications/#friction">[6]</a>
+I'm also interested in the **self-improvement** capability of LLMs. If we begin with the "end" (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve.
+
+<div class="collapsible-section">
+  <div class="collapsible-header" onclick="toggleSection('self-improvement-details')">
+    <span class="toggle-icon" id="self-improvement-details-icon">▶</span>
+    <strong>Details about my self-improvement research</strong>
+  </div>
+  <div class="collapsible-content" id="self-improvement-details" style="display: none;">
+    <ul>
+      <li><strong>Understanding the reason</strong> that prevents LLM from effective self-improvement <a href="/publications/#self-[in]correct">[5]</a></li>
+      <li><strong>Probing the limits</strong> of self-improvement even with high-quality feedback <a href="/publications/#friction">[6]</a></li>
+    </ul>
+  </div>
+</div>
 
 Recently, I've been focusing on **reinforcement learning** and **agents** — these are fundamental areas that are too important to overlook.
 

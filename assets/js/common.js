@@ -57,3 +57,19 @@ $(document).ready(function () {
     trigger: "hover",
   });
 });
+
+// Function to toggle collapsible sections
+function toggleSection(sectionId) {
+  const content = document.getElementById(sectionId);
+  const icon = document.getElementById(sectionId + '-icon');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    icon.textContent = '▼';
+    icon.classList.add('expanded');
+  } else {
+    content.style.display = 'none';
+    icon.textContent = '▶';
+    icon.classList.remove('expanded');
+  }
+}
