@@ -53,6 +53,10 @@
     background-color: #e2e8f0;
 }
 
+.collapsible-header strong {
+    color: #2563eb;
+}
+
 .toggle-icon {
     color: #64748b;
     font-size: 14px;
