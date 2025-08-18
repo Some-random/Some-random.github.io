@@ -39,10 +39,5 @@ $max-content-width: {{ site.max_width }};
 .toggle-icon {
     color: #64748b;
     font-size: 14px;
-    transition: transform 0.3s ease;
     user-select: none;
-}
-
-.toggle-icon.expanded {
-    transform: rotate(90deg);
 }
