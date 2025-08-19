@@ -8,7 +8,7 @@ middle_name:
 last_name: Jiang
 email: jiangdongwei0@gmail.com
 position: LLM reasoning and self-improvement. Previously focused on speech  # your position or title
-department: Applied Scientist at Amazon # your department
+department: Applied Scientist at Amazon. Previously master's student at JHU # your department
 institution: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
