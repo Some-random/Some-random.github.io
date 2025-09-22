@@ -32,7 +32,7 @@ I am broadly interested in **reasoning**. In the realm of reasoning, I've worked
 <ul><li><strong>Decompositional entailment</strong> that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[4]</a></li></ul>
 
 
-I'm also interested in the **self-improvement** capability of LLMs. If we begin with the "end" (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve.
+I'm also interested in the **self-improvement** capability of LLMs. If we begin with the "end" (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Within this area, I've worked on:
 
 <ul><li><strong>Understanding the reason</strong> that prevents LLM from effective self-improvement <a href="/publications/#self-[in]correct">[5]</a></li></ul>
 <ul><li><strong>Probing the limits</strong> of self-improvement even with high-quality feedback <a href="/publications/#friction">[6]</a></li></ul>
@@ -47,8 +47,8 @@ Recently, I've been focusing on **reinforcement learning**, which has emerged as
     <strong>More about my research</strong>
   </div>
   <div class="collapsible-content" id="research-philosophy-details" style="display: none;">
-    <p>I believe these the two research directions I'm interested in are <strong>deeply interconnected</strong> and can synergistically enhance each other. Strong reasoning capabilities are essential for effective self-improvement, as models need to logically analyze and discriminate between good and bad generations to provide meaningful feedback. Conversely, self-improvement mechanisms are crucial for advancing reasoning capabilities, as complex logical problems often require multiple attempts and refinements to reach the correct solution. This bidirectional relationship suggests that advancing either area could create positive feedback loops that benefit both capabilities.</p>
+    <p>I believe reasoning and self-improvement are <strong>deeply interconnected</strong> and can synergistically enhance each other. Strong reasoning capabilities are essential for effective self-improvement, as models need to logically analyze and discriminate between good and bad generations to provide meaningful feedback. Conversely, self-improvement mechanisms are crucial for advancing reasoning capabilities, as complex logical problems often require multiple attempts and refinements to reach the correct solution. This bidirectional relationship suggests that advancing either area could create positive feedback loops that benefit both capabilities.</p>
     
-    <p>I'm also interested in pursuing research in <strong>multi-modal systems</strong>, which can make use of my previous expertise in speech processing and my current expertise in LLMs. The convergence of different modalities presents exciting opportunities for building stronger AI systems.</p>
+    <p>I'm also interested in pursuing research in <strong>multi-modal systems</strong>, which builds upon my previous experience in speech processing and my current expertise in LLMs. The convergence of different modalities presents exciting opportunities for building stronger AI systems.</p>
   </div>
 </div>
