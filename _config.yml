@@ -7,7 +7,7 @@ first_name: Dongwei
 middle_name: 
 last_name: Jiang
 email: jiangdongwei0@gmail.com
-position: LLM reasoning and self-improvement. Previously focused on speech  # your position or title
+position: LLM agents, reasoning and self-improvement. Previously focused on speech  # your position or title
 department: Applied Scientist at Amazon. Previously master's student at JHU # your department
 institution: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -55,7 +55,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1100px
 
 # TODO: add layout settings (single page vs. multi-page)
 

@@ -24,7 +24,9 @@ research_interest: Research Interest
 more_title: More About Me
 ---
 
-I am broadly interested in **reasoning**. In the realm of reasoning, I've worked on:
+I am currently working on **reinforcement learning** and **agents**, particularly the intersection of these two areas — using RL to train agentic models. Tool integration and the ability to interact with the environment have fundamentally changed what AI systems can accomplish, and RL has emerged as the dominant approach for enhancing these capabilities.
+
+I'm also broadly interested in **reasoning**. In the realm of reasoning, I've worked on:
 
 <ul><li><strong>Building general-purpose verifier</strong> through rationale extraction from unlabelled data to provide process supervision during reasoning <a href="/publications/#supervision">[1]</a> (mentioned in Lilian Weng's <a href="https://bit.ly/44ChA3B">blog</a>)</li></ul>
 <ul><li><strong>Investigating the effectiveness of CoT prompting</strong> across 100+ papers and 20 datasets and discovering CoT benefits mainly math/symbolic reasoning tasks <a href="/publications/#cot">[2]</a> (<a href="https://bit.ly/4lLMnSy">discussion</a> with Jason Wei)</li></ul>
@@ -32,7 +34,7 @@ I am broadly interested in **reasoning**. In the realm of reasoning, I've worked
 <ul><li><strong>Decompositional entailment</strong> that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[4]</a></li></ul>
 
 
-I'm also interested in the **self-improvement** capability of LLMs. If we begin with the "end" (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Within this area, I've worked on:
+Another area I'm interested in is the **self-improvement** capability of LLMs (agents). If we begin with the "end" (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Within this area, I've worked on:
 
 <ul><li><strong>Understanding the reason</strong> that prevents LLM from effective self-improvement <a href="/publications/#self-[in]correct">[5]</a></li></ul>
 <ul><li><strong>Probing the limits</strong> of self-improvement even with high-quality feedback <a href="/publications/#friction">[6]</a></li></ul>
