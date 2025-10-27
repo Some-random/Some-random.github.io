@@ -40,9 +40,6 @@ Another area I'm interested in is the **self-improvement** capability of LLMs (a
 <ul><li><strong>Probing the limits</strong> of self-improvement even with high-quality feedback <a href="/publications/#friction">[6]</a></li></ul>
 
 
-Recently, I've been focusing on **reinforcement learning**, which has emerged as the dominant approach for enhancing reasoning capabilities, and **agents** — particularly because tool integration and the ability to interact with the environment have fundamentally changed what AI systems can accomplish.
-
-
 <div class="collapsible-section">
   <div class="collapsible-header" onclick="toggleSection('research-philosophy-details')">
     <span class="toggle-icon" id="research-philosophy-details-icon">▶</span>
