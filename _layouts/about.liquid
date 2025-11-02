@@ -11,10 +11,11 @@ layout: default
           {% if page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% assign profile_image_class = 'img-fluid z-depth-1' %}
+            {% assign profile_image_style = 'border-radius: 15px;' %}
           {% endif %}
           <div style="text-align: center;">
-            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class width="50%" alt=page.profile.image
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class style=profile_image_style width="50%" alt=page.profile.image
             cache_bust=true %}
           </div>
       </div>
