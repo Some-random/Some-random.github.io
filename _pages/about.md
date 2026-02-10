@@ -24,7 +24,7 @@ research_interest: Research Interest
 more_title: More About Me
 ---
 
-I am currently working on **reinforcement learning** and **agents**, particularly the intersection of these two areas — using RL to train agentic models. Tool integration and the ability to interact with the environment have fundamentally changed what AI systems can accomplish, and RL has emerged as the dominant approach for enhancing these capabilities.
+I am currently working on **reinforcement learning** and **autonomous agents**, particularly the intersection of these two areas — using RL to train agentic models. One area I'm particularly focusing on is <a href="https://aws.amazon.com/security-agent/">security agents</a> that can autonomously identify and validate vulnerabilities.
 
 I'm also broadly interested in **reasoning**. In the realm of reasoning, I've worked on:
 
