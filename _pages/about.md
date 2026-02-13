@@ -46,6 +46,8 @@ Another area I'm interested in is the **self-improvement** capability of LLMs (a
     <strong>More about my research</strong>
   </div>
   <div class="collapsible-content" id="research-philosophy-details" style="display: none;">
-    <p>I believe that <strong>reasoning and self-improvement converge in agentic systems</strong>—AI that acts in environments to accomplish complex goals. Success requires both reliable reasoning to navigate complex environments and learning from experience to improve over time. Agents need reasoning to understand consequences and plan actions, while self-improvement enables them to adapt from failures and refine their strategies. However, current systems face fundamental limitations: we train models with autoregressive objectives on static text, yet expect them to reason about consequences, plan over long horizons, and learn from experience. This creates a critical training-inference gap that my research aims to address—shoot me an email if you have thoughts on this!</p>
+    <p>I believe that <strong>reasoning and self-improvement converge in agentic systems</strong>—AI that acts in environments to accomplish complex goals. Agents need reasoning to understand consequences and plan actions, while self-improvement enables them to adapt from failures and refine their strategies.</p>
+    
+    <p>However, current systems face fundamental limitations: we train models with autoregressive objectives on static text, yet expect them to reason about consequences, plan over long horizons, and learn from experience. This creates a critical training-inference gap that my research aims to address. If you're also thinking about these problems, I'd love to chat!</p>
   </div>
 </div>
