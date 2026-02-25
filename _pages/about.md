@@ -24,30 +24,20 @@ research_interest: Research Interest
 more_title: More About Me
 ---
 
-I am currently working on **reinforcement learning** and **autonomous agents**, particularly the intersection of these two areas — using RL to train agentic models. One area I'm particularly focusing on is <a href="https://aws.amazon.com/security-agent/">security agents</a> that can autonomously identify and validate vulnerabilities.
+Nowadays, I'm increasingly interested in the **fundamental limitations** of language models. We train these models with autoregressive objectives, yet expect them to reason about consequences and plan over long horizons. Is autoregressive prediction really the best architecture? Do we truly need massive datasets when humans learn from far fewer examples? How can we bridge the training-inference gap when models must generalize to out-of-domain environments far beyond what they've seen during training? If you're also thinking about these problems, I'd love to <a href="https://calendar.app.google/BewYXJYPcTGveKRX6">chat</a>!
 
-I'm also broadly interested in **reasoning**. In the realm of reasoning, I've worked on:
+I've worked extensively on **agents**, **reasoning**, and **self-improvement**:
+
+**Agents**: I've worked on agentic RL and <a href="https://aws.amazon.com/security-agent/">security agents</a> that can autonomously identify and validate vulnerabilities.
+
+**Reasoning**: In the realm of reasoning, I've worked on:
 
 <ul><li><strong>Building general-purpose verifier</strong> through rationale extraction from unlabelled data to provide process supervision during reasoning <a href="/publications/#supervision">[1]</a> (mentioned in Lilian Weng's <a href="https://bit.ly/44ChA3B">blog</a>)</li></ul>
 <ul><li><strong>Investigating the effectiveness of CoT prompting</strong> across 100+ papers and 20 datasets and discovering CoT benefits mainly math/symbolic reasoning tasks <a href="/publications/#cot">[2]</a> (<a href="https://bit.ly/4lLMnSy">discussion</a> with Jason Wei)</li></ul>
 <ul><li><strong>Theorem proving and Logical reasoning</strong> that uses theorem prover <a href="https://lean-lang.org/">Lean</a> to help with the reasoning process <a href="/publications/#lean">[3]</a></li></ul>
 <ul><li><strong>Decompositional entailment</strong> that formulates a consistent and theoretically grounded approach to annotating decompositional entailment dataset <a href="/publications/#decompos">[4]</a></li></ul>
 
-
-Another area I'm interested in is the **self-improvement** capability of LLMs (and LLM agents). If we begin with the "end" (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Within this area, I've worked on:
+**Self-improvement**: If we begin with the "end" (superintelligence/AGI) in mind, relying on human input won't get us there. We need to teach models to interact with the environment and self-improve. Within this area, I've worked on:
 
 <ul><li><strong>Understanding the reason</strong> that prevents LLM from effective self-improvement <a href="/publications/#self-[in]correct">[5]</a></li></ul>
 <ul><li><strong>Probing the limits</strong> of self-improvement even with high-quality feedback <a href="/publications/#friction">[6]</a></li></ul>
-
-
-<div class="collapsible-section">
-  <div class="collapsible-header" onclick="toggleSection('research-philosophy-details')">
-    <span class="toggle-icon" id="research-philosophy-details-icon">▶</span>
-    <strong>More about my research</strong>
-  </div>
-  <div class="collapsible-content" id="research-philosophy-details" style="display: none;">
-    <p>I believe that <strong>reasoning and self-improvement converge in agentic systems</strong>—AI that acts in environments to accomplish complex goals. Agents need reasoning to understand consequences and plan actions, while self-improvement enables them to adapt from failures and refine their strategies.</p>
-    
-    <p>However, current systems face fundamental limitations: we train models with autoregressive objectives on static text, yet expect them to reason about consequences, plan over long horizons, and learn from experience. This creates a critical training-inference gap that my research aims to address. If you're also thinking about these problems, I'd love to chat!</p>
-  </div>
-</div>
