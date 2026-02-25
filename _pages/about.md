@@ -24,9 +24,9 @@ research_interest: Research Interest
 more_title: More About Me
 ---
 
-Nowadays, I'm increasingly interested in the **fundamental limitations** of language models. Is autoregressive prediction really the best architecture? Do we truly need massive datasets when humans learn from far fewer examples? How can we bridge the training-inference gap when models must generalize to out-of-domain environments far beyond what they've seen during training? If you're also thinking about these problems, I'd love to <a href="https://calendar.app.google/BewYXJYPcTGveKRX6">chat</a>!
+Nowadays, I'm increasingly interested in the **fundamental limitations** of language models. Is autoregressive prediction really the best architecture? Do we truly need massive datasets during pretraining? How can we bridge the training-inference gap? If you're also thinking about these problems, I'd love to <a href="https://calendar.app.google/BewYXJYPcTGveKRX6">chat</a>!
 
-I've worked extensively on **agents**, **reasoning**, and **self-improvement**:
+Previously, I've worked extensively on **agents**, **reasoning**, and **self-improvement**:
 
 **Agents**: I've worked on agentic RL and <a href="https://aws.amazon.com/security-agent/">security agents</a> that can autonomously identify and validate vulnerabilities.
 
