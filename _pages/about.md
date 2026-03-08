@@ -24,7 +24,7 @@ research_interest: Research Interest
 more_title: More About Me
 ---
 
-Nowadays, I'm increasingly interested in the **fundamental limitations** of language models. Is autoregressive prediction really the best architecture? Do we truly need massive datasets during pretraining? How can we bridge the training-inference gap? If you're also thinking about these problems, I'd love to <a href="https://calendar.app.google/BewYXJYPcTGveKRX6">chat</a>!
+Nowadays, I'm increasingly interested in the **limits of LLMs themselves**. Is autoregressive prediction really the best architecture? Do we truly need massive datasets during pretraining? How can we bridge the training-inference gap? If you're also thinking about these problems, I'd love to <a href="https://calendar.app.google/BewYXJYPcTGveKRX6">chat</a>!
 
 Previously, I've worked extensively on **agents**, **reasoning**, and **self-improvement**:
 
