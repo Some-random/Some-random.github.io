@@ -20,13 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 more: false
 
-research_interest: About Me
+research_interest: Research Interest
 more_title: More About Me
 ---
-
-Hi, I'm Dongwei! I'm currently an Applied Scientist at Amazon, working on foundation models. Before that, I did my master's at Johns Hopkins, and before that, I spent six years in industry building speech-processing systems.
-
-#### Research interests
 
 Nowadays, I'm increasingly interested in the **fundamental science of LLMs**. Is autoregressive prediction really the best architecture? Do we truly need massive datasets during pretraining? How can we bridge the training-inference gap? If you're also thinking about these problems, I'd love to chat!
 
