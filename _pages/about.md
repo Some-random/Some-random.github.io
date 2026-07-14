@@ -24,11 +24,13 @@ research_interest: Research Interest
 more_title: More About Me
 ---
 
-Nowadays, I'm increasingly interested in the **limits of LLMs themselves**. Is autoregressive prediction really the best architecture? Do we truly need massive datasets during pretraining? How can we bridge the training-inference gap? If you're also thinking about these problems, I'd love to <a href="https://calendar.app.google/BewYXJYPcTGveKRX6">chat</a>!
+Nowadays, I'm increasingly interested in the **fundamental science of LLMs**. Is autoregressive prediction really the best architecture? Do we truly need massive datasets during pretraining? How can we bridge the training-inference gap? If you're also thinking about these problems, I'd love to chat!
 
 Previously, I've worked extensively on **agents**, **reasoning**, and **self-improvement**:
 
-**Agents**: I've worked on agentic RL and <a href="https://aws.amazon.com/security-agent/">security agents</a> that can autonomously identify and validate vulnerabilities.
+**Agents**: I've worked on post-training for <a href="https://aws.amazon.com/security-agent/">security agents</a> that can autonomously identify and validate vulnerabilities. I've also worked on:
+
+<ul><li><strong>Benchmarking end-to-end cybersecurity capabilities</strong> of AI agents — across the full lifecycle of vulnerability discovery, PoC generation, and patch generation — via CyberGym-E2E, a real-world benchmark of 920 vulnerabilities across 139 open-source projects (with Dawn Song's group at UC Berkeley) <a href="/publications/#shi2026cybergym">[7]</a></li></ul>
 
 **Reasoning**: In the realm of reasoning, I've worked on:
 
