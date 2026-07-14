@@ -24,7 +24,7 @@ research_interest: About Me
 more_title: More About Me
 ---
 
-Hi, I'm Dongwei! I'm currently an Applied Scientist at Amazon, where I work on foundation models. Before returning to academia for my master's at Johns Hopkins, I spent six years in industry working on speech processing — you can read more about that journey [further below](#more-about-me).
+Hi, I'm Dongwei! I'm currently an Applied Scientist at Amazon, working on foundation models. Before that, I did my master's at Johns Hopkins, and before that, I spent six years in industry building speech-processing systems.
 
 #### Research interests
 
